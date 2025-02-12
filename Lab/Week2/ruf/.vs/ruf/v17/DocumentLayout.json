@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\ruf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76AE380-98C6-48F3-B34B-EE1632076975}|ruf\\ruf.csproj|e:\\cs 24\\semester 2\\oop\\lab\\week 2\\ruf\\ruf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76AE380-98C6-48F3-B34B-EE1632076975}|ruf\\ruf.csproj|solutionrelative:ruf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\ruf\\ruf\\Program.cs",
+              "RelativeDocumentMoniker": "ruf\\Program.cs",
+              "ToolTip": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\ruf\\ruf\\Program.cs",
+              "RelativeToolTip": "ruf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:55:55.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

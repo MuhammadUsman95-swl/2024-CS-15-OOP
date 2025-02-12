@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\Task13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81856CEC-C230-4DDF-8CE2-ACCFCFDDF77B}|Task13\\Task13.csproj|e:\\cs 24\\semester 2\\oop\\lab\\week 2\\task13\\task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81856CEC-C230-4DDF-8CE2-ACCFCFDDF77B}|Task13\\Task13.csproj|solutionrelative:task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\Task13\\Task13\\Program.cs",
+              "RelativeDocumentMoniker": "Task13\\Program.cs",
+              "ToolTip": "E:\\CS 24\\Semester 2\\OOP\\Lab\\Week 2\\Task13\\Task13\\Program.cs",
+              "RelativeToolTip": "Task13\\Program.cs",
+              "ViewState": "AgIAAAgAAADAAAAAAIAdwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:33:39.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

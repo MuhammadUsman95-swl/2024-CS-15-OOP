@@ -1,0 +1,7 @@
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\bin\Debug\Task8.exe.config
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\bin\Debug\Task8.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\bin\Debug\Task8.pdb
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\obj\Debug\Task8.csproj.AssemblyReference.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\obj\Debug\Task8.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task8\Task8\obj\Debug\Task8.pdb

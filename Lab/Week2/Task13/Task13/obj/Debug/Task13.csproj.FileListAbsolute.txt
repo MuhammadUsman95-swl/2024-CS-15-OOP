@@ -1,0 +1,7 @@
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\bin\Debug\Task13.exe.config
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\bin\Debug\Task13.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\bin\Debug\Task13.pdb
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\obj\Debug\Task13.csproj.AssemblyReference.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\obj\Debug\Task13.csproj.CoreCompileInputs.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\obj\Debug\Task13.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task13\Task13\obj\Debug\Task13.pdb

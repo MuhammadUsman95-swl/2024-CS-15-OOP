@@ -1,0 +1,7 @@
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\bin\Debug\Task9.exe.config
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\bin\Debug\Task9.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\bin\Debug\Task9.pdb
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\obj\Debug\Task9.exe
+E:\CS 24\Semester 2\OOP\Lab\Week 2\Task9\Task9\obj\Debug\Task9.pdb
