@@ -1,0 +1,7 @@
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\UMS.csproj.AssemblyReference.cache
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\CS 24\Semester 2\OOP\Lab\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

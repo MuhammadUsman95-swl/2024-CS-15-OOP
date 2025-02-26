@@ -1,0 +1,7 @@
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\bin\Debug\task 2.exe.config
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\bin\Debug\task 2.exe
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\bin\Debug\task 2.pdb
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\obj\Debug\task 2.csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\obj\Debug\task 2.exe
+E:\university\semester 2\OOPs lab\week 4\task 2\task 2\obj\Debug\task 2.pdb
